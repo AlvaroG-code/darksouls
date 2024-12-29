@@ -1,0 +1,29 @@
+body {
+    padding-top: 80px;
+    font-family: "Darker Grotesque", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+a:hover {
+    color: #ec1515;
+}
+
+a:any-link {
+    text-decoration: none;
+    color: azure;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#footer {
+    color: aqua;
+}
+
+i {
+    margin-right: 10px;
+}
